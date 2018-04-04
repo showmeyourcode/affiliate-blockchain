@@ -9,7 +9,7 @@ NOTE : This smart contract is deployed on [Rinkeby Testnet.](https://rinkeby.eth
 - Affiliate Registrations, order and payments are controlled by advertiser.
 - Affiliates can interact with the smart contract to see there statistics **securely**.
 
-**NOTE** : Encrypted data storage is not a part of this demo. For more details see [this](https://ethereum.stackexchange.com/questions/28389/on-ethereum-blockchain-store-secret-inside-a-smartcontract-with-private-keyword).
+**NOTE** : Encrypted data storage is not a part of this demo. For more details see [this](https://ethereum.stackexchange.com/a/28390/31881).
 
 **USAGE**
 - Download and run [Ganache](http://truffleframework.com/ganache/) on local (Local Web3 Provider)
